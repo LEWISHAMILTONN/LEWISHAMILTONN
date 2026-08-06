@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/humanmaIware/YOUR_REPO&label=visitors...!&labelColor=%#A29266&countColor=#gffds4&style=plastic&labelStyle=upper" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/humanmaIware/YOUR_REPO&label=visitors...!&labelColor=%23655a8b&countColor=%23655a8b&style=plastic&labelStyle=upper" />
 </p>
 
 <img
